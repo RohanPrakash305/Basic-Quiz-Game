@@ -45,5 +45,7 @@ for question_num in range(len(question_bank)):
     if continue1 == 'y'.lower():
         continue
     else:
-        print("********------thank for quiz ----********")
+        print("********------Thank for quiz ----********")
         break
+#Rohan Prakash
+#atulraj844114@gmail.com
